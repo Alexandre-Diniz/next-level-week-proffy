@@ -1,12 +1,13 @@
 import React from 'react'
-import Landing from './pages/Landing'
+import Pages from './Pages'
 
 import './assets/styles/global.css'
 
+
 function App() {
   return (
-    <Landing  />
+    <Pages  />
   )
 }
 
-export default App;
+export default App
